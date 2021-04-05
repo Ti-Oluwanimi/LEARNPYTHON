@@ -1,0 +1,35 @@
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\bin\Debug\PLAY PYTHON.exe.config
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\bin\Debug\PLAY PYTHON.exe
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\bin\Debug\PLAY PYTHON.pdb
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\bin\Debug\PLAY PYTHON.xml
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.main.resources
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.Resources.resources
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.vbproj.GenerateResource.Cache
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.exe
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.xml
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.pdb
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.LEARN.resources
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.PROFESSIONAL.resources
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.BEGINNERS.resources
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.DATA_SCIENCE.resources
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.MACHINE_LEARNING.resources
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.GAME_MENU.resources
+C:\Users\TiOluwanimi\documents\visual studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.vbprojResolveAssemblyReference.cache
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\bin\Debug\PLAY PYTHON.exe.config
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\bin\Debug\PLAY PYTHON.exe
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\bin\Debug\PLAY PYTHON.pdb
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\bin\Debug\PLAY PYTHON.xml
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.vbprojAssemblyReference.cache
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.BEGINNERS.resources
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.DATA_SCIENCE.resources
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.GAME_MENU.resources
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.LEARN.resources
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.MACHINE_LEARNING.resources
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.main.resources
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.Resources.resources
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY_PYTHON.PROFESSIONAL.resources
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.vbproj.GenerateResource.cache
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.vbproj.CoreCompileInputs.cache
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.exe
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.xml
+D:\Users\TiOluwanimi\Documents\Visual Studio 2015\Projects\PLAY PYTHON\PLAY PYTHON\obj\Debug\PLAY PYTHON.pdb
